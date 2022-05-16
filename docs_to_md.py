@@ -2,7 +2,7 @@ import inspect
 import re
 import sys
 import pathlib
-sys.path.append(f"{pathlib.Path(__file__).parent.absolute()}/Graphical-App")
+sys.path.append(f"{pathlib.Path(__file__).parent.parent.absolute()}/01/Graphical-App")
 
 # ------------------------------------------------------
 
